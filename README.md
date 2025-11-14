@@ -1,4 +1,4 @@
-## 📑 Budget Tracker
+## 📑 QB: Budget Tracker
 
 This is a full-stack budget tracking application built with a modern, high-performance stack. It allows users to manage expenses, income, debt, and track spending across defined budget periods.
 
